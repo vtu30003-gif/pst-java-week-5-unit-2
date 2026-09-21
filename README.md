@@ -54,6 +54,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -88,10 +89,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0008-string-to-integer-atoi) |
+| [0890-find-and-replace-pattern](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0890-find-and-replace-pattern) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0890-find-and-replace-pattern](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
 |  |
 | ------- |
