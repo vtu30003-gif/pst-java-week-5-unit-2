@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
