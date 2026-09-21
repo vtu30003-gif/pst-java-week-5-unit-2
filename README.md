@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
