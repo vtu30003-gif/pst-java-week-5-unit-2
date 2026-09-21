@@ -2,9 +2,9 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-22-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-78-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-9--15--2026-green?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-9--22--2026-green?style=for-the-badge)
 
 > 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **15** |
-| 🟡 Medium | **6** |
-| 🔴 Hard | **1** |
-| **Total** | **22** |
+| 🟢 Easy | **44** |
+| 🟡 Medium | **30** |
+| 🔴 Hard | **4** |
+| **Total** | **78** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| Java | **22** |
+| Java | **78** |
 
 ## 📂 Repository Structure
 
@@ -44,65 +44,6 @@
 
 <div align="center">
 
-*Last updated: 2026-09-15* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-09-21* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
-| [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
-| [0890-find-and-replace-pattern](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0890-find-and-replace-pattern) |
-| [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
-| [1408-string-matching-in-an-array](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/1408-string-matching-in-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
-## Queue
-|  |
-| ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
-## Monotonic Queue
-|  |
-| ------- |
-| [0918-maximum-sum-circular-subarray](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0918-maximum-sum-circular-subarray) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0283-move-zeroes) |
-## Matrix
-|  |
-| ------- |
-| [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
-## Simulation
-|  |
-| ------- |
-| [0867-transpose-matrix](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0867-transpose-matrix) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0008-string-to-integer-atoi](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0008-string-to-integer-atoi) |
-| [0890-find-and-replace-pattern](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0890-find-and-replace-pattern) |
-| [1408-string-matching-in-an-array](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/1408-string-matching-in-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0890-find-and-replace-pattern](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0890-find-and-replace-pattern) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/0003-longest-substring-without-repeating-characters) |
-## String Matching
-|  |
-| ------- |
-| [1408-string-matching-in-an-array](https://github.com/vtu30003-gif/pst-java-week-5-unit-2/tree/master/1408-string-matching-in-an-array) |
-<!---LeetCode Topics End-->
